@@ -1,5 +1,9 @@
 var homeTeam, awayTeam, matchDate, kickoff, homeTeamShort, awayTeamShort, tv, homeWin, awayWin, draw;
 
+var dF = moment.format('YYYY-MM-DD');
+var dT = moment.add(8, 'days').format('YYYY-MM-DD');
+console.log('df = ' +df+ ' ; dt = ' +dt);
+
 var settings = {
   "async": true,
   "crossDomain": true,
