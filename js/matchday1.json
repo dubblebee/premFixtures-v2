@@ -1,0 +1,263 @@
+{
+  "_links": {
+    "self": {
+      "href": "http://api.football-data.org/v1/competitions/426/fixtures"
+    },
+    "competition": {
+      "href": "http://api.football-data.org/v1/competitions/426"
+    }
+  },
+  "count": 10,
+  "fixtures": [
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150839"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/354"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/74"
+        }
+      },
+      "date": "2016-08-13T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 1,
+      "homeTeamName": "Crystal Palace FC",
+      "awayTeamName": "West Bromwich Albion FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150837"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/328"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/72"
+        }
+      },
+      "date": "2016-08-13T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 1,
+      "homeTeamName": "Burnley FC",
+      "awayTeamName": "Swansea City FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150844"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/340"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/346"
+        }
+      },
+      "date": "2016-08-13T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 1,
+      "homeTeamName": "Southampton FC",
+      "awayTeamName": "Watford FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150840"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/62"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/73"
+        }
+      },
+      "date": "2016-08-13T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 1,
+      "homeTeamName": "Everton FC",
+      "awayTeamName": "Tottenham Hotspur FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150841"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/322"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/338"
+        }
+      },
+      "date": "2016-08-13T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 1,
+      "homeTeamName": "Hull City FC",
+      "awayTeamName": "Leicester City FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150842"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/65"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/71"
+        }
+      },
+      "date": "2016-08-13T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 1,
+      "homeTeamName": "Manchester City FC",
+      "awayTeamName": "Sunderland AFC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150843"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/343"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/70"
+        }
+      },
+      "date": "2016-08-13T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 1,
+      "homeTeamName": "Middlesbrough",
+      "awayTeamName": "Stoke City FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      }
+    },
+        {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150836"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/64"
+        }
+      },
+      "date": "2016-08-14T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 1,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Liverpool FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      }
+    },
+        {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150835"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1044"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/66"
+        }
+      },
+      "date": "2016-08-14T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 1,
+      "homeTeamName": "AFC Bournemouth",
+      "awayTeamName": "Manchester United FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150838"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/61"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/563"
+        }
+      },
+      "date": "2016-08-15T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 1,
+      "homeTeamName": "Chelsea FC",
+      "awayTeamName": "West Ham United FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      }
+    }
+  ]
+}
