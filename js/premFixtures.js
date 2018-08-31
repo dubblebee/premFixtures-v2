@@ -14,13 +14,13 @@ var settings = {
 $.ajax(settings).done(function (json) {
 
 	$.each(json.matches, function(i,x){
-		// homeTeam = x.homeTeam.name;
-		// awayTeam = x.awayTeam.name;
-		homeTeam = x.homeTeamName;
-		awayTeam = x.awayTeamName;
-		matchDay = moment(x.date).format('dddd');
-		matchDate = moment(x.date).format('Do MMMM');
-		kickoff = moment(x.date).format('HH:mm');
+		homeTeam = x.homeTeam.name;
+		awayTeam = x.awayTeam.name;
+		// homeTeam = x.homeTeamName;
+		// awayTeam = x.awayTeamName;
+		matchDay = moment(x.utcDate).format('dddd');
+		matchDate = moment(x.utcDate).format('Do MMMM');
+		kickoff = moment(x.utcDate).format('HH:mm');
 
 		if (homeTeam == "AFC Bournemouth") {homeTeam = "Bournemouth"; homeTeamShort = "bournemouth";}
 		if (homeTeam == "Arsenal FC") {homeTeam = "Arsenal"; homeTeamShort = "arsenal";}
