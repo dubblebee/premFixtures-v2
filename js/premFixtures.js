@@ -24,14 +24,14 @@ $.ajax(settings).done(function (json) {
 
 		if (homeTeam == "AFC Bournemouth") {homeTeam = "Bournemouth"; homeTeamShort = "bournemouth";}
 		if (homeTeam == "Arsenal FC") {homeTeam = "Arsenal"; homeTeamShort = "arsenal";}
-		if (homeTeam == "Brighton & Hove Albion") {homeTeam = "Brighton"; homeTeamShort = "brighton";}
+		if (homeTeam == "Brighton & Hove Albion FC") {homeTeam = "Brighton"; homeTeamShort = "brighton";}
 		if (homeTeam == "Burnley FC") {homeTeam = "Burnley"; homeTeamShort = "burnley";}
 		if (homeTeam == "Cardiff City FC") {homeTeam = "Cardiff"; homeTeamShort = "cardiff";}
 		if (homeTeam == "Chelsea FC") {homeTeam = "Chelsea"; homeTeamShort = "chelsea";}		
 		if (homeTeam == "Crystal Palace FC") {homeTeam = "Crystal Palace"; homeTeamShort = "palace";}
 		if (homeTeam == "Everton FC") {homeTeam = "Everton"; homeTeamShort = "everton";}
 		if (homeTeam == "Fulham FC") {homeTeam = "Fulham"; homeTeamShort = "fulham";}
-		if (homeTeam == "Huddersfield Town") {homeTeam = "Huddersfield"; homeTeamShort = "huddersfield";}
+		if (homeTeam == "Huddersfield Town AFC") {homeTeam = "Huddersfield"; homeTeamShort = "huddersfield";}
 		//if (homeTeam == "Hull City FC") {homeTeam = "Hull"; homeTeamShort = "hull";}
 		if (homeTeam == "Leicester City FC") {homeTeam = "Leicester"; homeTeamShort = "leicester";}
 		if (homeTeam == "Liverpool FC") {homeTeam = "Liverpool"; homeTeamShort = "liverpool";}
@@ -52,14 +52,14 @@ $.ajax(settings).done(function (json) {
 
 		if (awayTeam == "AFC Bournemouth") {awayTeam = "Bournemouth"; awayTeamShort = "bournemouth";}
 		if (awayTeam == "Arsenal FC") {awayTeam = "Arsenal"; awayTeamShort = "arsenal";}
-		if (awayTeam == "Brighton & Hove Albion") {awayTeam = "Brighton"; awayTeamShort = "brighton";}
+		if (awayTeam == "Brighton & Hove Albion FC") {awayTeam = "Brighton"; awayTeamShort = "brighton";}
 		if (awayTeam == "Burnley FC") {awayTeam = "Burnley"; awayTeamShort = "burnley";}
 		if (awayTeam == "Cardiff City FC") {awayTeam = "Cardiff"; awayTeamShort = "cardiff";}
 		if (awayTeam == "Chelsea FC") {awayTeam = "Chelsea"; awayTeamShort = "chelsea";}
 		if (awayTeam == "Crystal Palace FC") {awayTeam = "Crystal Palace"; awayTeamShort = "palace";}
 		if (awayTeam == "Everton FC") {awayTeam = "Everton"; awayTeamShort = "everton";}
 		if (awayTeam == "Fulham FC") {awayTeam = "Fulham"; awayTeamShort = "fulham";}
-		if (awayTeam == "Huddersfield Town") {awayTeam = "Huddersfield"; awayTeamShort = "huddersfield";}
+		if (awayTeam == "Huddersfield Town AFC") {awayTeam = "Huddersfield"; awayTeamShort = "huddersfield";}
 		//if (awayTeam == "Hull City FC") {awayTeam = "Hull"; awayTeamShort = "hull";}
 		if (awayTeam == "Leicester City FC") {awayTeam = "Leicester"; awayTeamShort = "leicester";}
 		if (awayTeam == "Liverpool FC") {awayTeam = "Liverpool"; awayTeamShort = "liverpool";}
