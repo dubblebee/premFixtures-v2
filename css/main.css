@@ -46,7 +46,8 @@ h1 {
 }
 
 .fixtures:hover {
-	background-color: #37003c;
+	background-color: #18e6fb;
+	/*background-color: #37003c;*/
 	color: #fff;
 }
 
