@@ -3,7 +3,7 @@ var homeTeam, awayTeam, matchDate, kickoff, homeTeamShort, awayTeamShort, tv, ho
 var today = new Date();
 var dF = moment(today).format('YYYY-MM-DD');
 var dT = moment(today).add(8, 'days').format('YYYY-MM-DD');
-console.log('df = ' +df+ ' ; dt = ' +dt);
+console.log('dF = ' +dF+ ' ; dT = ' +dT);
 
 var settings = {
   "async": true,
