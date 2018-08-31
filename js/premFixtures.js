@@ -8,7 +8,7 @@ console.log('dF = ' +dF+ ' ; dT = ' +dT);
 var settings = {
   "async": true,
   "crossDomain": true,
-  "url": "https://api.football-data.org/v2/competitions/2021/matches?dateFrom=2018-09-01&dateTo=2018-09-08", //Fetches next 8 days fixtures
+  "url": "https://api.football-data.org/v2/competitions/2021/matches?dateFrom="+dF+"&dateTo="+dT, //Fetches next 8 days fixtures
   "method": "GET",
   "headers": {
     "x-auth-token": "ae060e00913d4304b43cad61531d704a",
