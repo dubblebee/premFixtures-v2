@@ -189,12 +189,20 @@ h1 {
 	background-image: url(../img/badges/chelsea.png);
 }
 
+.teamBadge.cardiff {
+	background-image: url(../img/badges/cardiff.png);
+}
+
 .teamBadge.palace {
 	background-image: url(../img/badges/palace.png);
 }
 
 .teamBadge.everton {
 	background-image: url(../img/badges/everton.png);
+}
+
+.teamBadge.fulham {
+	background-image: url(../img/badges/fulham.png);
 }
 
 .teamBadge.huddersfield {
@@ -259,6 +267,10 @@ h1 {
 
 .teamBadge.westham {
 	background-image: url(../img/badges/westham.png);
+}
+
+.teamBadge.wolves {
+	background-image: url(../img/badges/wolves.png);
 }
 
 
